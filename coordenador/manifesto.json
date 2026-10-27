@@ -1,0 +1,11 @@
+{
+  "produto": "abastece-coordenador",
+  "numero": 53,
+  "commit": "92c5f45d703fd88b4256dbee1691af04909852bf",
+  "publicadoEm": "2026-10-27T22:17:43.934Z",
+  "pacote": "coordenador-53.json.gz",
+  "tamanho": 191638,
+  "sha256": "0a3db6eb64711ffebc1a814928395a7d85cfef37748d8999772fb20a88352552",
+  "conteudo": "3aa86e2367f43a2c9a9356e4bd5a7fb7f74b0892d0c0235076ee552301ec9d96",
+  "nodeMinimo": "24.11.0"
+}
