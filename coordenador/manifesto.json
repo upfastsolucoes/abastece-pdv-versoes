@@ -1,11 +1,11 @@
 {
   "produto": "abastece-coordenador",
-  "numero": 83,
-  "commit": "00c61ef0d0014da613c5ed44a7ff0a3b1c837254",
-  "publicadoEm": "2026-10-28T16:22:49.721Z",
-  "pacote": "coordenador-83.json.gz",
-  "tamanho": 456583,
-  "sha256": "184967fe793473c0315f8b7197c591f655a64baa0fa7c3416eb10b812517324e",
-  "conteudo": "d2ee7d4b4a346b7a2739201c3f0c42e33468c7eaaa94da8cfce04a91ea96e034",
+  "numero": 125,
+  "commit": "a86a0908b62992119bd2c02c52dc2d3072570b08",
+  "publicadoEm": "2026-10-29T16:22:45.616Z",
+  "pacote": "coordenador-125.json.gz",
+  "tamanho": 486432,
+  "sha256": "932f419d24970cd08d3066c61cd55273f03c18e0edd496ce3e10f8bfa8644122",
+  "conteudo": "e3190827e4c1aa0e81d8508a6a8465415fc4ddbf4f955c056ef054a962bc2584",
   "nodeMinimo": "24.11.0"
 }
