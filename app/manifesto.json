@@ -1,0 +1,15 @@
+{
+  "produto": "abastece-pdv-android",
+  "numero": 26535671,
+  "versao": "1.0.1",
+  "pacote": "br.com.abastece.pdv",
+  "arquivo": "abastece-pdv-26535671.apk",
+  "tamanho": 17468538,
+  "sha256": "bf100edffaea2adf6b663b6b44182f8c3042f68da63c7c8f2944a659541e723d",
+  "certificado": "2bd26138b9f5ad691d3864ce21034bf43522bb70bfe1fe474fa72cc23a71ceac",
+  "sdkMinimo": 26,
+  "numeroMinimo": 0,
+  "commit": "be3427d57f1c87e79f59cbdada9188b302189442",
+  "conteudo": "e4aac1b680d0a48bc2ed009dbcf909e6bbf2f38e",
+  "publicadoEm": "2026-11-04T09:53:27.842Z"
+}
