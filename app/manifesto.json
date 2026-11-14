@@ -1,15 +1,15 @@
 {
   "produto": "abastece-pdv-android",
-  "numero": 27132353,
-  "versao": "1.0.2",
+  "numero": 27456863,
+  "versao": "1.0.3",
   "pacote": "br.com.abastece.pdv",
-  "arquivo": "abastece-pdv-27132353.apk",
-  "tamanho": 17484922,
-  "sha256": "df13a517f161018ea51b391b421695e0303a60e4b999059770bd20d7368c80b6",
+  "arquivo": "abastece-pdv-27456863.apk",
+  "tamanho": 17484918,
+  "sha256": "f111caf10d7d5dbbc9d0adde0a5fc87c5d78d6e4631592df80316c3ac20a1d2d",
   "certificado": "2bd26138b9f5ad691d3864ce21034bf43522bb70bfe1fe474fa72cc23a71ceac",
   "sdkMinimo": 26,
   "numeroMinimo": 0,
-  "commit": "71dda0478453dfa0e23dfe457032eac70e16f44a",
-  "conteudo": "22ca742f457d20688453e9c2e5f022f5d0882031",
-  "publicadoEm": "2026-11-14T12:32:45.375Z"
+  "commit": "07024bba1746ea98fa2802877342f56e2917dbfc",
+  "conteudo": "22f9d01ff40bc4d024f8d5325db983c3043f4ef2",
+  "publicadoEm": "2026-11-14T19:08:02.253Z"
 }
